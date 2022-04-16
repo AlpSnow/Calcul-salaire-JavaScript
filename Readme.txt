@@ -3,7 +3,7 @@ Calcul-salaire-JavaScript
 
 Ce dossier comporte un fichier HTML5, un dossier CSS avec un fichier CSS3 ainsi qu'un dossier JS comportant un fichier JavaScript.
 
-C'est un exercice qui consiste à calculer et afficher le salaire d’un commercial suivant ses primes de transport et de CA (chiffre d'affaires), ainsi que son salaire de base.
+C'est un logiciel qui consiste à calculer et afficher le salaire d’un commercial suivant ses primes de transport et de CA (chiffre d'affaires), ainsi que son salaire de base.
 
 Au lancement de la page web, plusieurs questions vous seront posées : 
 - Quel est le salaire de base du commercial ?
